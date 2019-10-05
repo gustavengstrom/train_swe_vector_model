@@ -1,6 +1,8 @@
 
-!*/.gitkeep
+
 
 models_temp/*
 pretrained/*
 init_models/*
+
+!*/.gitkeep
