@@ -1,0 +1,4 @@
+
+models_temp/*.*
+pretrained/w2v/*.*
+init_models/w2v/*.*
