@@ -1,4 +1,6 @@
 
-models_temp/*.*
-pretrained/w2v/*.*
-init_models/w2v/*.*
+!*/.gitkeep
+
+models_temp/*
+pretrained/*
+init_models/*
